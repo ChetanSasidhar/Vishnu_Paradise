@@ -19,7 +19,7 @@ This project was developed to provide a seamless booking experience for both hot
 ## How to Use
 
 1. *Clone the Repository*: Clone this repository to your local machine using Git:
-2. git clone - https://github.com/sathwikcodes/Vishnu-Paradise.git
+2. git clone - https://github.com/ChetanSasidhar/Vishnu_Paradise
 3. *Install Dependencies*: Navigate to the project directory and install the necessary dependencies using npm or yarn:
 cd vishnu-paradise
 npm install
