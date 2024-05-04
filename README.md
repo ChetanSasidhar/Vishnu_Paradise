@@ -34,7 +34,7 @@ npm install
 
 ## Credits
 
-- Project developed by [Sathwik Batta]
+- Project developed by Chetan Sasidhar Chunduru
 - Technologies used:
 - React
 - Firebase
