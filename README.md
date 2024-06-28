@@ -48,7 +48,7 @@ npm install
 
 ## Feedback and Contributions
 
-If you have any feedback, suggestions, or bug reports, feel free to [open an issue](https://github.com/sathwikcodes/Vishnu-Paradise/issues) or submit a pull request. Contributions are always welcome!
+If you have any feedback, suggestions, or bug reports, feel free to [open an issue](https://github.com/ChetanSasidhar/Vishnu-Paradise/issues) or submit a pull request. Contributions are always welcome!
 
 ## License
 
